@@ -1,0 +1,183 @@
+.logo{
+	width: 90%;
+}
+.btn-1 {
+	font-family: Ubuntu;
+	width: 18%;
+	background-color: white;
+}
+.btn-2
+{
+	 background-color: #ff319c;
+	 border-color: #ff319c;
+}
+
+
+.text
+{
+	padding-top: 7%;
+	position: relative;
+	left: -25%;
+	font-family: Ubuntu;
+	display: inline;
+	float: left;
+	font-size: 2.5rem;
+
+}
+.lead
+{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 620;
+	color: #626262;
+    line-height: 2rem;
+    font-size: 1.1rem;
+
+
+}
+
+
+.img-1
+{
+
+	top: -50%;
+	right: 25%;
+	height: auto;
+	width: auto;
+}
+.midsec
+{
+	margin-bottom: 70px;
+	float: right;
+	width: 80%;
+}
+.boring-text
+{
+	border-radius: 10px;
+	box-shadow: 2px 2px 5px 2px #E1E5EA;
+	margin: 0 50px 100px;
+}
+
+.bo-txt,h2
+{
+	font-family: Ubuntu;
+	font-weight: 250;
+	padding-left: -175px;
+	padding-top: 4%;
+}
+
+h4
+{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 650;
+    line-height: 2rem;
+    font-size: 1.1rem;
+}
+
+.img-2
+{
+	margin-left: 30%;
+  	width: 70%;
+
+}
+.boring-text:hover
+{
+	background-color:  #f92392;
+	color: white;
+
+}
+.mid2
+{
+	float: left;
+	width: 80%;
+	top: 35%;
+
+}
+
+.bottom-div
+{
+  display: inline-block;
+  background-color: white;
+  color: black;
+  position: relative;
+  bottom: -32px;
+  z-index: 1;
+  margin: 0 20%;
+  text-align: center;
+  border-radius: 10px;
+  padding: 3% 8%;
+  left: 12%;
+  border-width: medium;
+  box-shadow: 0 0 2px 2px #E1E5EA;
+}
+
+.footer
+{
+	background-color: #222831;
+	color: white;
+	padding-top: 15%;
+	top:  25%;
+	padding-bottom: 1px;
+}
+.footer-logo
+{
+	position: relative;
+	width: 28%;
+	top: -200px;
+	bottom: 50px;
+}
+
+.bottom-row
+{
+	position: relative;
+	top: -150px;
+	left: 100px;
+}
+ul
+{
+	padding: 0;
+	list-style: circle;
+}
+.middle-footer-column ul li a {
+  text-decoration: none;
+  color: white;
+  transition: all 0.3s ease;
+
+}
+.about-footer-column
+{
+	bottom: -20px;
+	position: relative;
+	left: 70px;
+}
+
+.middle-footer-column ul li a:hover {
+  color: white;
+  padding-left: 10px;
+}
+
+.copyright
+{
+	position: relative;
+	float: right;
+	right: 5%;
+	bottom: 25px;
+	font-size: small;
+}
+.social
+{
+	text-align: right;
+ 	margin: 12px;
+ 	right: -400px;
+ 	bottom: 70px;
+}
+
+.attrition
+{
+	font-size: 11px; 
+	justify-content: center;
+}
+
+body
+{
+ background-image: url(./images/bg-hero-desktop.svg);
+}
